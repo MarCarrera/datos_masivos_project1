@@ -1,0 +1,404 @@
+<productos>
+  <producto>
+    <codigo>217590</codigo>
+    <catalogo>355S</catalogo>
+    <tipo>BASE PARA WATTHORIMETRO</tipo>
+    <descripcion>BASE P/MEDIDOR TIPO "S" MONOFASICA 4T</descripcion>
+    <precio>246</precio>
+  </producto>
+
+  <producto>
+    <codigo>217591</codigo>
+    <catalogo>355</catalogo>
+    <tipo>BASE PARA WATTHORIMETRO</tipo>
+    <descripcion>BASE P/MEDIDOR TIPO "S" MONOFASICA 5T</descripcion>
+    <precio>277</precio>
+  </producto>
+
+  <producto>
+    <codigo>284853</codigo>
+    <catalogo>8W-4TX</catalogo>
+    <tipo>BASE PARA WATTHORIMETRO</tipo>
+    <descripcion>BASE P/MEDIDOR 4T ALTA CONTAMINACION</descripcion>
+    <precio>201</precio>
+  </producto>
+
+  <producto>
+    <codigo>363450</codigo>
+    <catalogo>BW-4T</catalogo>
+    <tipo>BASE PARA WATTHORIMETRO</tipo>
+    <descripcion>BASE P/MEDIDOR TIPO MONOFASICA 4T</descripcion>
+    <precio>176</precio>
+  </producto>
+
+  <producto>
+    <codigo>202537</codigo>
+    <catalogo>BW-4T</catalogo>
+    <tipo>BASE PARA WATTHORIMETRO</tipo>
+    <descripcion>BASE P/MEDIDOR TIPO MONOFASICA 4T</descripcion>
+    <precio>129</precio>
+  </producto>
+
+  <producto>
+    <codigo>221338</codigo>
+    <catalogo>355S</catalogo>
+    <tipo>BASE PARA WATTHORIMETRO</tipo>
+    <descripcion>BASE P/MEDIDOR MONOFASICA 4T CON EMPAQUE</descripcion>
+    <precio>136</precio>
+  </producto>
+
+  <producto>
+    <codigo>300809</codigo>
+    <catalogo>BW-5T</catalogo>
+    <tipo>BASE PARA WATTHORIMETRO</tipo>
+    <descripcion>BASE P/MEDIDOR TIPO MONOFASICO 5T</descripcion>
+    <precio>198</precio>
+  </producto>
+
+  <producto>
+    <codigo>207221</codigo>
+    <catalogo>BW-5T</catalogo>
+    <tipo>BASE PARA WATTHORIMETRO</tipo>
+    <descripcion>BASE P/MEDIDOR TIPO MONOFASICO 5T</descripcion>
+    <precio>142</precio>
+  </producto>
+
+  <producto>
+    <codigo>217943</codigo>
+    <catalogo>3010-L</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 1 Y 2 CIRCUITOS EMP</descripcion>
+    <precio>81</precio>
+  </producto>
+
+  <producto>
+    <codigo>217941</codigo>
+    <catalogo>3020-L</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 1 Y 2 CIRCUITOS EMP</descripcion>
+    <precio>84</precio>
+  </producto>
+
+  <producto>
+    <codigo>217945</codigo>
+    <catalogo>3020-Lbifasico</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 1 Y 2 CIRCUITOS EMP</descripcion>
+    <precio>84</precio>
+  </producto>
+
+  <producto>
+    <codigo>217944</codigo>
+    <catalogo>3011-L</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 1 Y 2 CIRCUITOS SOB</descripcion>
+    <precio>81</precio>
+  </producto>
+
+  <producto>
+    <codigo>217942</codigo>
+    <catalogo>3021-L</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 1 Y 2 CIRCUITOS SOB</descripcion>
+    <precio>84</precio>
+  </producto>
+
+  <producto>
+    <codigo>217946</codigo>
+    <catalogo>3021-Lbifasico</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 1 Y 2 CIRCUITOS SOB</descripcion>
+    <precio>84</precio>
+  </producto>
+
+  <producto>
+    <codigo>223808</codigo>
+    <catalogo>3030-TR</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA TRIFASICO PARA EMPOTRAR</descripcion>
+    <precio>201</precio>
+  </producto>
+
+  <producto>
+    <codigo>233809</codigo>
+    <catalogo>3031-TR</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA TRIFASICO PARA SOBREPONER</descripcion>
+    <precio>201</precio>
+  </producto>
+
+  <producto>
+    <codigo>364525</codigo>
+    <catalogo>3030</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA DE EMPOTRAR 3-8 ELEMENTOS</descripcion>
+    <precio>201</precio>
+  </producto>
+
+  <producto>
+    <codigo>302448</codigo>
+    <catalogo>3040</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA DE EMPOTRAR 3-8 ELEMENTOS</descripcion>
+    <precio>194</precio>
+  </producto>
+
+  <producto>
+    <codigo>362642</codigo>
+    <catalogo>3060</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA DE EMPOTRAR 3-8 ELEMENTOS</descripcion>
+    <precio>301</precio>
+  </producto>
+
+  <producto>
+    <codigo>362644</codigo>
+    <catalogo>3080</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA DE EMPOTRAR 3-8 ELEMENTOS</descripcion>
+    <precio>373</precio>
+  </producto>
+
+  <producto>
+    <codigo>364526</codigo>
+    <catalogo>3031</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA DE SOBREPONER 3-8 ELEMENTOS</descripcion>
+    <precio>201</precio>
+  </producto>
+
+  <producto>
+    <codigo>302447</codigo>
+    <catalogo>3041</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA DE SOBREPONER 3-8 ELEMENTOS</descripcion>
+    <precio>194</precio>
+  </producto>
+
+  <producto>
+    <codigo>362643</codigo>
+    <catalogo>3061</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA DE SOBREPONER 3-8 ELEMENTOS</descripcion>
+    <precio>301</precio>
+
+  </producto>
+
+  <producto>
+    <codigo>362645</codigo>
+    <catalogo>3081</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA DE SOBREPONER 3-8 ELEMENTOS</descripcion>
+    <precio>373</precio>
+
+  </producto>
+
+  <producto>
+    <codigo>324997</codigo>
+    <catalogo>3010-GO-GRIS</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 1-2 CIRCUITOS EMP OXFORD Y MARFIL </descripcion>
+    <precio>86</precio>
+  </producto>
+
+  <producto>
+    <codigo>325003</codigo>
+    <catalogo>3020-GO-GRIS</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 1-2 CIRCUITOS EMP OXFORD Y MARFIL </descripcion>
+    <precio>89</precio>
+  </producto>
+
+  <producto>
+    <codigo>324998</codigo>
+    <catalogo>3010-M-MARFIL</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 1-2 CIRCUITOS EMP OXFORD Y MARFIL </descripcion>
+    <precio>86</precio>
+  </producto>
+
+  <producto>
+    <codigo>325000</codigo>
+    <catalogo>3011-GO-GRIS</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 1-2 CIRCUITOS SOB OXFORD Y MARFIL </descripcion>
+    <precio>86</precio>
+  </producto>
+
+  <producto>
+    <codigo>325006</codigo>
+    <catalogo>3021-GO-GRIS</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 1-2 CIRCUITOS SOB OXFORD Y MARFIL </descripcion>
+    <precio>89</precio>
+  </producto>
+
+  <producto>
+    <codigo>325007</codigo>
+    <catalogo>3021-M-MARFIL</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 1-2 CIRCUITOS SOB OXFORD Y MARFIL </descripcion>
+    <precio>86</precio>
+  </producto> 
+
+  <producto>
+    <codigo>324999</codigo>
+    <catalogo>3010-GR</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 1 CIRCUITO EMPOTRAR GRIS CLARO </descripcion>
+    <precio>86</precio>
+  </producto> 
+  
+  <producto>
+    <codigo>325005</codigo>
+    <catalogo>3020-GR</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 2 CIRCUITOS EMPOTRAR GRIS CLARO </descripcion>
+    <precio>89</precio>
+  </producto> 
+
+  <producto>
+    <codigo>221471</codigo>
+    <catalogo>3040-GR</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 4 CIRCUITOS EMPOTRAR GRIS CLARO </descripcion>
+    <precio>204</precio>
+  </producto> 
+
+  <producto>
+    <codigo>325002</codigo>
+    <catalogo>3011-GR</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 1 CIRCUITO SOBREPONER GRIS CLARO </descripcion>
+    <precio>86</precio>
+  </producto> 
+  
+  <producto>
+    <codigo>325008</codigo>
+    <catalogo>3021-GR</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 2 CIRCUITOS SOBREPONER GRIS CLARO </descripcion>
+    <precio>89</precio>
+  </producto> 
+
+  <producto>
+    <codigo>221472</codigo>
+    <catalogo>3041-GR</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CENTRO DE CARGA 4 CIRCUITOS SOBREPONER GRIS CLARO </descripcion>
+    <precio>204</precio>
+
+  </producto> 
+    
+  <producto>
+    <codigo>618441</codigo>
+    <catalogo>AE-6931</catalogo>
+    <tipo>CENTRO DE CARGA</tipo>
+    <descripcion>CAJA DE DISTRIBUCION DE POLICARBONATO PARA EMPOTRAR</descripcion>
+    <precio>84</precio>
+  </producto> 
+
+  <producto>
+    <codigo>616634</codigo>
+    <catalogo>IU1C10</catalogo>
+    <tipo>INTERRUPTOR TERMOMAGNETICO</tipo>
+    <descripcion>INTERRUPTOR TERMOMAGNETICO DE 1 POLO 10A</descripcion>
+    <precio>63</precio>
+  </producto> 
+
+  <producto>
+    <codigo>616635</codigo>
+    <catalogo>IU1C15</catalogo>
+    <tipo>INTERRUPTOR TERMOMAGNETICO</tipo>
+    <descripcion>INTERRUPTOR TERMOMAGNETICO DE 1 POLO 15A</descripcion>
+    <precio>63</precio>
+  </producto>
+
+  <producto>
+    <codigo>616636</codigo>
+    <catalogo>IU1C20</catalogo>
+    <tipo>INTERRUPTOR TERMOMAGNETICO</tipo>
+    <descripcion>INTERRUPTOR TERMOMAGNETICO DE 1 POLO 20A</descripcion>
+    <precio>63</precio>
+  </producto> 
+  
+  <producto>
+    <codigo>616641</codigo>
+    <catalogo>IU2C10</catalogo>
+    <tipo>INTERRUPTOR TERMOMAGNETICO</tipo>
+    <descripcion>INTERRUPTOR TERMOMAGNETICO DE 2 POLOS 10A</descripcion>
+    <precio>185</precio>
+  </producto>
+
+  <producto>
+    <codigo>616642</codigo>
+    <catalogo>IU2C15</catalogo>
+    <tipo>INTERRUPTOR TERMOMAGNETICO</tipo>
+    <descripcion>INTERRUPTOR TERMOMAGNETICO DE 2 POLOS 15A</descripcion>
+    <precio>185</precio>
+  </producto> 
+
+  <producto>
+    <codigo>616643</codigo>
+    <catalogo>IU2C20</catalogo>
+    <tipo>INTERRUPTOR TERMOMAGNETICO</tipo>
+    <descripcion>INTERRUPTOR TERMOMAGNETICO DE 2 POLOS 20A</descripcion>
+    <precio>185</precio>
+  </producto>
+
+  <producto>
+    <codigo>616885</codigo>
+    <catalogo>IU1C03</catalogo>
+    <tipo>INTERRUPTOR TERMOMAGNETICO</tipo>
+    <descripcion>INTERRUPTOR TERMOMAGNETICO DE 1 POLO 03A MONTAJE RIEL DIN</descripcion>
+    <precio>83</precio>
+  </producto> 
+
+  <producto>
+    <codigo>616886</codigo>
+    <catalogo>IU1C06</catalogo>
+    <tipo>INTERRUPTOR TERMOMAGNETICO</tipo>
+    <descripcion>INTERRUPTOR TERMOMAGNETICO DE 1 POLO 06A MONTAJE RIEL DIN</descripcion>
+    <precio>73</precio>
+  </producto> 
+
+  <producto>
+    <codigo>616887</codigo>
+    <catalogo>IU1C10</catalogo>
+    <tipo>INTERRUPTOR TERMOMAGNETICO</tipo>
+    <descripcion>INTERRUPTOR TERMOMAGNETICO DE 1 POLO 10A MONTAJE RIEL DIN</descripcion>
+    <precio>76</precio>
+  </producto> 
+
+  <producto>
+    <codigo>616895</codigo>
+    <catalogo>IU2C03</catalogo>
+    <tipo>INTERRUPTOR TERMOMAGNETICO</tipo>
+    <descripcion>INTERRUPTOR TERMOMAGNETICO DE 2 POLOS 03A MONTAJE RIEL DIN</descripcion>
+    <precio>172</precio>
+  </producto> 
+
+  <producto>
+    <codigo>616896</codigo>
+    <catalogo>IU2C06</catalogo>
+    <tipo>INTERRUPTOR TERMOMAGNETICO</tipo>
+    <descripcion>INTERRUPTOR TERMOMAGNETICO DE 2 POLOS 06A MONTAJE RIEL DIN</descripcion>
+    <precio>155</precio>
+  </producto> 
+
+  <producto>
+    <codigo>616897</codigo>
+    <catalogo>IU2C10</catalogo>
+    <tipo>INTERRUPTOR TERMOMAGNETICO</tipo>
+    <descripcion>INTERRUPTOR TERMOMAGNETICO DE 2 POLOS 10A MONTAJE RIEL DIN</descripcion>
+    <precio>147</precio>
+  </producto> 
+
+  <producto>
+    <codigo>616898</codigo>
+    <catalogo>IU2C16</catalogo>
+    <tipo>INTERRUPTOR TERMOMAGNETICO</tipo>
+    <descripcion>INTERRUPTOR TERMOMAGNETICO DE 2 POLOS 16A MONTAJE RIEL DIN</descripcion>
+    <precio>147</precio>
+  </producto> 
+</productos>
